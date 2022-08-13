@@ -15,7 +15,7 @@ New users can register and the existing ones can login. The forms have complete 
 
 ## Run tracking
 
-The run is tracked using the Google Maps API. Here are some screenshot of the app before, during and after the run has completed-
+The run is tracked using the Google Maps API. Here are some screenshots of the app before, during and after the run has completed-
 
 <img src="https://raw.githubusercontent.com/amruthsrepo/Run-Tracking-Application/main/Screenshots/ask%20location%20permission.png" alt="Ask location permission" width="250"/><img src="https://raw.githubusercontent.com/amruthsrepo/Run-Tracking-Application/main/Screenshots/run%20in%20progress.png" alt="Run in progress" width="250"/><img src="https://raw.githubusercontent.com/amruthsrepo/Run-Tracking-Application/main/Screenshots/run%20history%20view.png" alt="Run completed" width="250"/>
 
